@@ -1,0 +1,1 @@
+http://hn.geekity.com/newstories.xml

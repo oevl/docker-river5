@@ -1,0 +1,6 @@
+http://www.abc.net.au/news/feed/45910/rss.xml
+http://www.theguardian.com/au/rss
+http://www.theguardian.com/uk/rss
+http://feeds.bbci.co.uk/news/world/rss.xml
+http://www.nytimes.com/services/xml/rss/nyt/InternationalHome.xml
+http://www.economist.com/rss/the_world_this_week_rss.xml

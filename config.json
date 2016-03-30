@@ -1,0 +1,38 @@
+{
+	"maxRiverItems": 400,
+  "dataFolder": "/opt/data/data/",
+  "listsFolder": "/opt/config/lists",
+  "templatePath": "misc/template.html",
+  "homePage": {
+    "panels": [
+      {
+        "title": "News",
+        "river": "news.js"
+      },
+      {
+        "title": "Surf",
+        "river": "trawl.js"
+      },
+      {
+        "title": "Code",
+        "river": "code.js"
+      },
+      {
+        "title": "Art",
+        "river": "art.js"
+      },
+      {
+        "title": "Tech",
+        "river": "hose.js"
+      },
+      {
+        "title": "Git",
+        "river": "git.js"
+      },
+      {
+        "title": "HN",
+        "river": "hn.js"
+      }
+    ]
+  }
+}

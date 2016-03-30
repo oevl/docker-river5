@@ -1,0 +1,12 @@
+http://www.pdnphotooftheday.com/feed
+http://api.flickr.com/services/feeds/photos_public.gne?id=10411969@N07&amp;lang=en-us&amp;format=rss_200
+http://feeds.feedburner.com/theatlantic/infocus
+http://chromogenic.net/rss
+http://ptrbkr.com/rss
+http://blog.noahkalina.com/rss
+http://www.thenarrative.net/index.rdf
+http://adams.co.tt/blog/index.xml
+http://strangemadness.com/atom.xml
+http://machinesfromgod.com/rss
+http://aspectratio.livejournal.com/data/rss
+http://feeds.feedburner.com/Wanken
