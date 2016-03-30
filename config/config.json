@@ -1,7 +1,6 @@
 {
 	"maxRiverItems": 400,
-  "dataFolder": "/opt/data/data/",
-  "listsFolder": "/opt/config/lists",
+  "dataFolder": "/data/",
   "templatePath": "misc/template.html",
   "homePage": {
     "panels": [
