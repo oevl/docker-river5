@@ -1,14 +1,13 @@
-# River5 News River
+# River5 Docker Container
 
-To kick up on Mac run the following.
+A docker container for running [River5](https://github.com/scripting/river5).
+
+## Running with custom config
+
+To provide your own config and lists you can map a directory on your host over to the container.
+
+An example config is provided which you could map as follows:
 
 ```sh
-$ docker build -t grassdog/river5 .
-$ docker run -d -p 1337:1337 -v $PWD/config:/config grassdog/river5
+$ docker run -d -p 1337:1337 -v $PWD/example-config:/config grassdog/river5
 ```
-
-Then hit http://192.168.33.10:1337 and you should be able to see your rivers.
-
-## TODO
-
-Work on structure of rivers. Look to http://radio3.io/rivers/ for inspiration.

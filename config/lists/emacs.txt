@@ -1,6 +1,0 @@
-http://planet.emacsen.org/atom.xml
-http://whattheemacsd.com/atom.xml
-http://sachachua.com/blog/category/emacs/feed/
-http://newartisans.com/rss.xml
-http://pragmaticemacs.com/feed/
-https://www.masteringemacs.org/feed

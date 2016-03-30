@@ -1,0 +1,17 @@
+{
+	"maxRiverItems": 400,
+  "dataFolder": "/data/",
+  "templatePath": "misc/template.html",
+  "homePage": {
+    "panels": [
+      {
+        "title": "News",
+        "river": "news.js"
+      },
+      {
+        "title": "HN",
+        "river": "hn.js"
+      }
+    ]
+  }
+}
