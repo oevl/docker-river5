@@ -15,7 +15,7 @@ RUN curl -SLO https://github.com/scripting/river5/archive/master.zip && \
 WORKDIR /app/river5-master
 RUN npm install
 
-VOLUME [ "/data", "/config" ]
+VOLUME [ "/app/river5-master/data", "/app/river5-master/rivers", "/config" ]
 
 ADD start.sh .
 

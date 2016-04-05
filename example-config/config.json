@@ -1,6 +1,5 @@
 {
 	"maxRiverItems": 400,
-  "dataFolder": "/data/",
   "templatePath": "misc/template.html",
   "homePage": {
     "panels": [
