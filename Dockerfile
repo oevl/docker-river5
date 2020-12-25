@@ -1,6 +1,6 @@
-FROM mhart/alpine-node:4
+FROM node:current-alpine3.12
 MAINTAINER Ray Grasso <ray.grasso@gmail.com>
-ENV REFRESHED_AT 2016-03-30
+ENV REFRESHED_AT 2020-12-25
 
 RUN apk update && apk upgrade && \
     apk add curl

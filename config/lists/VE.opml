@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<opml version="2.0">
+	<head>
+		<title>VE</title>
+		<ownerTwitterScreenName>oevl</ownerTwitterScreenName>
+		<ownerName>Omar Vasquez Lima</ownerName>
+		<ownerId>http://twitter.com/oevl</ownerId>
+		<dateModified>Fri, 05 Aug 2016 22:59:58 GMT</dateModified>
+		<expansionState></expansionState>
+		<lastCursor>4</lastCursor>
+		<longTitle>Noticias y Opinión sobre Venezuela</longTitle>
+		<description>Noticias y Opinión sobre Venezuela</description>
+		</head>
+	<body>
+		<outline text="CinemaCoach" xmlUrl="https://cinemacoach.wordpress.com/feed/" type="rss" name="CinemaCoach" htmlUrl="https://cinemacoach.wordpress.com/" title="CinemaCoach"/>
+		<outline text="El Cambur" created="Mon, 18 Jul 2016 03:17:08 GMT" xmlUrl="http://www.elcambur.com.ve/feed" htmlUrl="http://www.elcambur.com.ve/" type="rss" title="El Cambur"/>
+		<outline text="Avances El Universal" xmlUrl="http://cdn.eluniversal.com/rss/avances.xml" type="rss" name="AvancesEl Universal" htmlUrl="http://www.eluniversal.com/tops/" title="Avances El Universal"/>
+		<outline text="The Oil Curse" created="Fri, 05 Aug 2016 22:30:36 GMT" xmlUrl="http://theoilcurse.blogspot.com/feeds/posts/default" type="rss" title="The Oil Curse" htmlUrl="http://theoilcurse.blogspot.se/" name="The Oil Curse"/>
+		<outline text="A view from the Radical Middle" created="Fri, 05 Aug 2016 22:30:36 GMT" xmlUrl="http://perkurowski.blogspot.com/feeds/posts/default" type="rss" title="A view from the Radical Middle" htmlUrl="http://perkurowski.blogspot.com/" name="A view from the Radical Middle"/>
+		</body>
+	</opml>

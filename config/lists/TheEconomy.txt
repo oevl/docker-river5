@@ -1,0 +1,2 @@
+http://ep00.epimg.net/rss/economia/portada.xml
+http://feeds.feedburner.com/NakedCapitalism?format=xml

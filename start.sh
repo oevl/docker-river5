@@ -1,5 +1,4 @@
-#!/bin/sh
-
+#!/usr/bin/env sh
 # This script will place any config files from the host into the
 # application and then start the app.
 

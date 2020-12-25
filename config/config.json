@@ -1,0 +1,12 @@
+{
+	"maxRiverItems": 400,
+  "templatePath": "misc/template.html",
+  "homePage": {
+    "panels": [
+      {
+        "title": "HN",
+        "river": "hn.js"
+      }
+    ]
+  }
+}
